@@ -1,0 +1,20 @@
+{
+    "notes": [
+        {
+            "text": "hello world i am build Ai assistant",
+            "created": "14-10-2026 11:21 PM"
+        }
+    ],
+    "tasks": [
+        {
+            "text": "calculate gravity of earth",
+            "completed": true,
+            "created": "14-10-2026 11:24 PM"
+        },
+        {
+            "text": "hello",
+            "completed": true,
+            "created": "16-10-2026 02:37 PM"
+        }
+    ]
+}
